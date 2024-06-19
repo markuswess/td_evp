@@ -8,3 +8,4 @@ options:
   maxdepth: 2
 chapters: 
   - file: installation
+  - file: examples

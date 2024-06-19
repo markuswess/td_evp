@@ -1,0 +1,25 @@
+\documentclass[border=1mm]{standalone}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+%%%%%emph colors
+\definecolor{emph1}{RGB}{0,102,153}
+\definecolor{emph2}{RGB}{200,90,20}
+\definecolor{emph3}{RGB}{100,30,153}
+\definecolor{emph4}{RGB}{0,100,0}
+\definecolor{emph5}{RGB}{0,100,200}
+\definecolor{emph6}{RGB}{100,0,0}
+
+\begin{document}
+\begin{tikzpicture}
+  \node[black, opacity=0.2] at (3.7,-3.2){\resizebox{!}{100pt}{$\partial_t$}};
+  \node[emph1, opacity=0.8] at (3.5,-3){\resizebox{!}{100pt}{$\partial_t$}};
+  \node[black, opacity=0.2] at (0.2,-0.2){\resizebox{!}{100pt}{$-i\omega$}};
+  \node[emph2, opacity=0.8] at (0,0){\resizebox{!}{100pt}{$-i\omega$}};
+\end{tikzpicture}	
+\end{document}
