@@ -1,4 +1,4 @@
-# Time domain methods for the computation of resonances 
+# Time domain methods for resonance problems
 
 by *M. Wess*, *L. Nannen*
 
