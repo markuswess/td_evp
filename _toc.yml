@@ -9,3 +9,8 @@ options:
 chapters: 
   - file: installation
   - file: examples
+    sections: 
+      - file: examples/filters
+      - file: examples/filtered_power_iteration
+      - file: examples/dumbbell_td_evp
+
