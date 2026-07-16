@@ -18,7 +18,7 @@ To solve resonance problems for time-harmonic wave-type equations without having
 ```
 
 ```{note}
-For a full mathematical exposition to the method we refer to the extended abstract {cite}`NW24_waves` for a short read and to the preprint {cite}`NW24` for a more comprehensive introduction.
+For a full mathematical exposition to the method we refer to the extended abstract {cite}`NW24_waves` for a short read and to the full paper {cite}`NW24` for a more comprehensive introduction.
 ```
 
 ---
